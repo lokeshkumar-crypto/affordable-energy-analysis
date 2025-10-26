@@ -1,0 +1,3 @@
+Household Power Consumption, kWh: 300
+Renewable Energy Produced, kWh: 120
+Grid Rate per kWh: 5
